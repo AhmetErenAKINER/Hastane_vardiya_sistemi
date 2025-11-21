@@ -64,7 +64,7 @@ npx cypress open
 Bu projenin geliştirilme sürecindeki değerli katkıları, rehberlikleri ve akademik vizyonları için hocalarım:
 
 *   **Sayın Dr. Öğr. Üyesi Nurettin ŞENYER**
-*   **Sayın Dr. Öğr. Üyesi Ömer DUMUŞ**
+*   **Sayın Araştırma Görevlisi Ömer DURMUŞ**
 
 beyefendilere en içten teşekkürlerimi sunarım. Onların bilgi birikimi ve yönlendirmeleri, bu çalışmanın ortaya çıkmasında büyük rol oynamıştır.
 
