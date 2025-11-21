@@ -1,0 +1,21 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Rails
+/server/log/*
+/server/tmp/*
+/server/db/*.sqlite3
+/server/db/*.sqlite3-journal
+/server/storage/*
+/server/node_modules
+/server/.env
+/server/public/assets
+/server/vendor/bundle
+
+# React
+/client/node_modules
+/client/dist
+/client/build
+/client/.env
+/client/.env.local
